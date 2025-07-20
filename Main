@@ -9,9 +9,9 @@
 
 // Paste your url here ↓↓↓
 var mobileUrl =
-^"https://raw.githubusercontent.com/
-^FrancoSosaZ0206/Neo-Stonescripts/
-^main/Stonescript/"
+^https://github.com/FrancoSosaZ0206/
+^Neo-Stonescripts/blob/main/
+^Stonescript/My/Scripts/main.txt"
 
 sys.SetFileUrl(mobileUrl)
 
