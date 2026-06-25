@@ -1,0 +1,15 @@
+void reporte_2(){
+    int anio;
+    cout<<"Ingrese el anio: "<<endl;
+    cin>>anio;
+    while (anio < 1900){
+        cout<<"Anio invalido";
+        cin>>anio;
+    }
+
+    Archivo_Ventas arc;
+    int cantidad_juegos_vendidos= arc.contar_registros();
+
+
+
+}
